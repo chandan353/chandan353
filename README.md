@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
 - Iamr Group Of Institution, BCA
 
 ## 🤝 Connect with Me
-
+- [Perosnal Portfolio] (https://chandan353.github.io/ )
 - [LinkedIn] (https://www.linkedin.com/in/chandan-pandey-20b950276/)
 - [GitHub] (https://github.com/chandan353/)
 - [E-mail] (contact.chandan02@gmail.com)
